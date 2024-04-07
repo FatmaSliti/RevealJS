@@ -1,4 +1,4 @@
-This is one of the exaples I worked on when learning Reaveal.js
+This is one of the examples I've worked on when learning Reaveal.js
 [Download PDF](LearnReveal.js.pdf)
 
 
